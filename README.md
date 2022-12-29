@@ -1,1 +1,1 @@
-- 👋 Hello, Lumia here!
+- 👋 Hello!
