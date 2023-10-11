@@ -1,4 +1,4 @@
-👋 Hello, I'm [Alex Lima]
+👋 Hello, I'm [Alex Lima](https://github.com/luminahi/luminahi/)
 
 🌐 Web Developer
 🐧 Linux lover
