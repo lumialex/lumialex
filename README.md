@@ -1,6 +1,6 @@
 👋 Hello, I'm [Alex Lima](https://github.com/luminahi)
 
-🌐 Backend Web Developer
+🌐 Back-end Web Developer
 
 🐧 Linux enthusiast
 
