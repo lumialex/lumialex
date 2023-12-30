@@ -4,7 +4,7 @@
 
 🐧 Linux enthusiast
 
-🔬 Exploring new technologies
+🔬 Never ending studying
 
 
 📫 Reach out to me at delimaferreiraalex@gmail.com
