@@ -9,4 +9,4 @@
 🚀 Currently aiming to land a job as a Web Developer
 
 
-📫 Reach out to me at [delimaferreiraalex@gmail.com]
+📫 Reach out to me at delimaferreiraalex@gmail.com
