@@ -64,4 +64,6 @@
 <br/>
 <br/>
 
-<h2 align="center">📫 Reach out to me at <a href=".">delimaferreiraalex@gmail.com</a></h2>
+<footer>
+  <h2 align="center">📫 Reach out to me at <a href=".">delimaferreiraalex@gmail.com</a></h2>
+</footer>
