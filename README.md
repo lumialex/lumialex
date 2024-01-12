@@ -7,8 +7,8 @@
 
 <div>
   <div  align="center">
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg" />
+    <img height="96" width="96" 
+      src="./icons/Linux.svg" />
     <img height="72" width="72" 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/ubuntu.svg" />
     <img height="72" width="72" 
