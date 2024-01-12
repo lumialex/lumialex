@@ -6,54 +6,61 @@
 <br/>
 
 <div>
-  <div  align="center">
-    <img height="72" width="72" src="https://cdn.simpleicons.org/linux/black/white" />
+  <div align="center" >
     <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/ubuntu.svg" />
+      src="https://cdn.simpleicons.org/linux/black/white" />
     <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/archlinux.svg" />
-  </div>
-  <br/>
-  <div align="center">
+      src="https://cdn.simpleicons.org/ubuntu/black/white" />
     <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodedotjs.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/typescript.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jest.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" />
-  </div>
-  <br/>
-  <div align="center">
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" />
-    <img height="72" width="72" 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redis.svg" />
-  </div>
-  <br/>
-  <div align="center">
-    <img height="72" width="72" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/c.svg" />
-    <img height="72" width="72" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/csharp.svg" />
-    <img height="72" width="72" 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/unity.svg" />
+      src="https://cdn.simpleicons.org/archlinux/black/white" />
   </div>
 
+  <br/>
+  
+  <div align="center">
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/nodedotjs/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/javascript/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/typescript/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/express/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/jest/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/react/black/white" />
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/amazonaws/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/docker/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/git/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/postgresql/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/mongodb/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/redis/black/white" />
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img height="72" width="72" 
+        src="https://cdn.simpleicons.org/c/black/white" />
+    <img height="72" width="72" 
+        src="https://cdn.simpleicons.org/csharp/black/white" />
+    <img height="72" width="72" 
+        src="https://cdn.simpleicons.org/unity/black/white" />
+  </div>
 </div>
+
 <br/>
 <br/>
 
