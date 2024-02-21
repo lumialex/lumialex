@@ -4,8 +4,6 @@
 <h3 align="center">What I know</h3>
 <h1 align="center">&darr;</h1>
 
-<br/>
-
 <div>
   <div align="center" >
     <img height="72" width="72" 
