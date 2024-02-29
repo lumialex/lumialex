@@ -7,11 +7,11 @@
 <div>
   <div align="center" >
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/linux/black/white" />
+      src="https://cdn.simpleicons.org/linux/#FCC624" />
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/ubuntu/black/white" />
+      src="https://cdn.simpleicons.org/ubuntu/#E95420" />
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/archlinux/black/white" />
+      src="https://cdn.simpleicons.org/archlinux/#1793D1" />
   </div>
 
   <br/>
@@ -22,7 +22,7 @@
     <img height="72" width="72" 
       src="https://cdn.simpleicons.org/javascript/black/white" />
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/typescript/black/white" />
+      src="https://cdn.simpleicons.org/typescript/#3178C6" />
     <img height="72" width="72" 
       src="https://cdn.simpleicons.org/express/black/white" />
     <img height="72" width="72" 
@@ -47,7 +47,7 @@
     <img height="72" width="72" 
       src="https://cdn.simpleicons.org/redis/black/white" />
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/rabbitmq/black/white" />
+      src="https://cdn.simpleicons.org/rabbitmq/#FF6600" />
   </div>
   
   <br/>
