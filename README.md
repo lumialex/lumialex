@@ -46,6 +46,8 @@
       src="https://cdn.simpleicons.org/mongodb/black/white" />
     <img height="72" width="72" 
       src="https://cdn.simpleicons.org/redis/black/white" />
+    <img height="72" width="72" 
+      src="https://cdn.simpleicons.org/rabbitmq/black/white" />
   </div>
   
   <br/>
