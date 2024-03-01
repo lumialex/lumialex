@@ -58,7 +58,7 @@
     <img height="72" width="72" 
         src="https://cdn.simpleicons.org/csharp/#512BD4" />
     <img height="72" width="72" 
-        src="https://cdn.simpleicons.org/unity/#FFFFFF" />
+        src="https://cdn.simpleicons.org/unity/black/white" />
   </div>
 </div>
 
