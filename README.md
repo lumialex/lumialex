@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/luminahi">Alex Lima</a></h1>
 <h3 align="center">Back-end Web Developer & Linux enthusiast</h3>
 
-<h3 align="center">What I know: </h3>
+<h3 align="center">My Skills: </h3>
 
 <br/>
 
