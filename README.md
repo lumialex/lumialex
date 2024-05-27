@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3 align="center">Technical Skills</h3>
+<h3 align="center">Technologies & Tools I Use</h3>
 
 <br/>
 
@@ -26,17 +26,17 @@
 
 <div align="center">
 
-| AWS | Docker | Git | PostgreSQL | MongoDB | Redis | RabbitMQ |
-| ------------- | -------------- | -------------- | -------------- | -------------- | -------------- |  -------------- |
-| <img height="72" width="72" src="https://cdn.simpleicons.org/amazonwebservices/#232F3E" /> |<img height="72" width="72" src="https://cdn.simpleicons.org/docker/#2496ED" /> |<img height="72" width="72" src="https://cdn.simpleicons.org/git/#F05032" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/postgresql/#4169E1" /> |  <img height="72" width="72" src="https://cdn.simpleicons.org/mongodb/#47A248" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/redis/#DC382D" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/rabbitmq/#FF6600" />
+| AWS | Docker | Git | PostgreSQL | SQLite | MongoDB | Redis | RabbitMQ |
+| ------------- | -------------- | -------------- | -------------- | -------------- | -------------- |  -------------- | -------------- |
+| <img height="72" width="72" src="https://cdn.simpleicons.org/amazonwebservices/#232F3E" /> |<img height="72" width="72" src="https://cdn.simpleicons.org/docker/#2496ED" /> |<img height="72" width="72" src="https://cdn.simpleicons.org/git/#F05032" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/postgresql/#4169E1" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/sqlite/#003B57" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/mongodb/#47A248" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/redis/#DC382D" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/rabbitmq/#FF6600" />
 
 </div>
 
 <div align="center">
 
-| C | C# | Unity |
-| ------------- | -------------- | -------------- |
-| <img height="72" width="72" src="https://cdn.simpleicons.org/c/#A8B9CC" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/csharp/#512BD4" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/unity/black/white" />
+| C | C# | Unity | Spring Boot |
+| ------------- | -------------- | -------------- | -------------- |
+| <img height="72" width="72" src="https://cdn.simpleicons.org/c/#A8B9CC" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/csharp/#512BD4" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/unity/black/white" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/springboot/#6DB33F" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/sqlite/#003B57" /> 
 
 </div>
   
