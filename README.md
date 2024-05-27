@@ -36,7 +36,7 @@
   
   <div align="center">
     <img height="72" width="72" 
-      src="https://cdn.simpleicons.org/amazonaws/#232F3E" />
+      src="https://cdn.simpleicons.org/amazonwebservices/#232F3E" />
     <img height="72" width="72" 
       src="https://cdn.simpleicons.org/docker/#2496ED" />
     <img height="72" width="72" 
