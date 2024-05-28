@@ -12,7 +12,7 @@
 
 | GNU/Linux | Ubuntu | ArchLinux |
 | -------------- | -------------- | -------------- |
-| <img height="72" width="72" src="https://cdn.simpleicons.org/gnu/#A42E2B" />  <img height="72" width="72" src="https://cdn.simpleicons.org/linux/#FCC624" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/ubuntu/#E95420" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/archlinux/#1793D1"/> |
+| <div align="center"><img height="72" width="72" src="https://cdn.simpleicons.org/gnu/#A42E2B" />  <img height="72" width="72" src="https://cdn.simpleicons.org/linux/#FCC624" /></div> | <img height="72" width="72" src="https://cdn.simpleicons.org/ubuntu/#E95420" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/archlinux/#1793D1"/> |
 
 </div>
 
