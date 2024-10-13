@@ -36,7 +36,7 @@
 
 | C | .NET | Unity | Spring Boot |
 | ------------- | -------------- | -------------- | -------------- |
-| <img height="72" width="72" src="https://cdn.simpleicons.org/c/#A8B9CC" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/dotnet/#512BD4" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/unity/black/white" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/springboot/#6DB33F" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/sqlite/#003B57" /> 
+| <img height="72" width="72" src="https://cdn.simpleicons.org/c/A8B9CC" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/dotnet/#512BD4" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/unity/black/white" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/springboot/#6DB33F" /> | <img height="72" width="72" src="https://cdn.simpleicons.org/sqlite/#003B57" /> 
 
 </div>
   
